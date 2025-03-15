@@ -1,8 +1,8 @@
 const userData = [
   {
-    userName: "Sofia Osorio",
-    userDesc: "Web Developer",
-    userPic: "https://github.com/SofiDevO.png",
+    userName: "Mohamed Adel",
+    userDesc: "Cloud Enginner",
+    userPic: "https://me.moadel.eu.org/images/IMG_.webp",
     userPicDark: "/img/pedro_raccon.gif",
   },
 ];
@@ -13,12 +13,12 @@ const userData = [
 const socialLinks = [
   {
     socialName: "LinkedIn",
-    socialUl: "#",
+    socialUl: "https://link.moadel.eu.org/LinkedIn",
     socialIcon: "mingcute:linkedin-fill",
   },
   {
     socialName: "GitHub",
-    socialUl: "https://github.com/SofiDevO/allmylinks",
+    socialUl: "https://link.moadel.eu.org/GitHub",
     socialIcon: "fa6-brands:github-alt",
   },
   {
@@ -28,12 +28,12 @@ const socialLinks = [
   },
   {
     socialName: "X",
-    socialUl: "#",
+    socialUl: "https://link.moadel.eu.org/X",
     socialIcon: "prime:twitter",
   },
   {
     socialName: "Whatsapp",
-    socialUl: "#",
+    socialUl: "https://link.moadel.eu.org/Whatsapp",
     socialIcon: "mingcute:whatsapp-fill",
   },
 ];
@@ -50,11 +50,11 @@ const userLinks = [
         icon:"mingcute:youtube-fill"
 
     },
-    {
-        title: "Únete a Discord",
-        link:"https://discord.com/invite/wjERezH2",
-        icon:"ic:outline-discord"
-    },
+    // {
+    //     title: "Únete a Discord",
+    //     link:"https://discord.com/invite/wjERezH2",
+    //     icon:"ic:outline-discord"
+    // },
 ]
 
 
